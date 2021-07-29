@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xenomojin
-- 👀 I’m interested in App/Game development including deep learning and multiplayer.
-- 🌱 I’m currently learning Rust combined with Bevy. Unlike any other language I've tried out (Java, C# and C),
-Rust seems to combine every positive aspect of a low and hight level language I could imagine.
+- 👋 Hi, I’m @Xenomojin. I was born in and live in Germany.
+- 👀 I’m interested in App/Game development and especially enjoy deep learning, multiplayer or beautiful algoriythms/simulations.
+- 🌱 I’m currently learning Rust combined with Bevy. Unlike any other language I've tried (Java, C# and C),
+Rust seems to combine every positive aspect of a low and hight level language I could imagine. Also I love Open-Source and community projects in general.
